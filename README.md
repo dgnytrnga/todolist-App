@@ -1,2 +1,0 @@
-# todolist-App
-![](screenshot.png)
